@@ -1,0 +1,40 @@
+제목: 시계열 요소 분해를 이용한 효율적인 이상탐지
+      Efficient Anomaly Detection using Time Series Decomposition
+연구자:
+
+  학번: 201584-010070
+  성명: 김호현
+
+
+연구필요성 및 목적
+
+  항공회사들은 대리점의 급작스런 부도로 인한 매표대금의 손실을 방지하기 위하여 대리점의 비정상적인 판매 급증을 조기에 탐지하여 경보하는 시스템을 운용할 필요가 있다.
+
+그러나 현재의 시스템은 계절변동 및 추세변동 등 시계열 데이터에 내포되어 있는 특성을 잘 반영하지 못하고 있으며, 이로 인해 높은 False Alarm Rate를 보이고 있어 개선이 필요하다.
+
+  이 문제의 해결을 위해 시계열 데이터에서 이상(Anomaly) 건을 탐지해 내는 신뢰성 있고 효율적인 알고리즘에 관한 연구를 진행하고자 한다.
+  
+
+연구 내용
+
+  - Anomaly Detection 일반: 개념, 적용분야, 탐지방법론
+  - 시계열 데이터의 특성, 데이터 모델링, 분석, 예측 방법론 연구
+  - 시계열 데이터에 대한 Anomaly Detection Algorithm
+  - Anomaly Data의 시각화
+
+
+연구결과 및 기여도
+
+  - 시계열 데이터의 이상탐지 알고리즘(Anomaly Detection Algorithm) 개선
+    . 보다 효율적인 시계열 요소분해(Time Series Decomposition) 기법
+    . 요일별 편차가 있는 경우의 이상 탐지 알고리즘
+  - Anomaly Data의 효율적인 시각화 표현 방법
+  - 실제 작동하는 조기경보 시스템(자동 탐지 및 통지) 모델 제시
+
+
+
+연구과제
+
+  - 시계열 요소분해 및 이상 탐지 (Anomaly Detection) 알고리즘
+  - Open Source 기반 데이터 시각화 (Data Visualization)
+  - 이상탐지 및 통지 시스템 개발 (Anomaly Detection and Notification System)

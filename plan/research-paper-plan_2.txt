@@ -1,0 +1,43 @@
+[ 논문연구 계획서 ]
+
+제목: 
+  LSTM/GRU 순환신경망을 이용한 시계열 데이터 예측
+  Forecasting Time-series Data Using LSTM/GRU Recurrent Neural Networks
+
+연구자:
+  학번: 201584-010070
+  성명: 김 호 현
+
+
+연구필요성 및 목적
+
+  주가지수, 환율과 같은 시계열자료에 대한 정확한 예측은 금융계를 포함한 많은 이해관계자들의 주요한 관심사이다. 
+  
+  전통적으로 ARIMA와 같은 통계에 기반한 예측기법들이 많이 이용되어 왔으나 최근 들어 인공지능에 대한 폭발적인 관심과 함께 Deep Learning 기반의 연구가 활발하며, 인공신경망 기반 알고리즘은 최근 Image, 영상, 자연어 처리를 포함한 다방면에서의 급속한 진보를 가져오고 있다.
+
+  인공신경망은 통계기반 방법과는 다르게 데이터로부터 비선형관계를 학습할 수 있다는 점과 정상성(Stationarity)이나 특정 데이터 분포를 따른다는 등의 가정이 필요하지 않다는 커다란 이점이 있다.
+
+  시계열자료와 같은 순차적인 데이터는 순환신경망(Recurrent Neural Networks)를 이용하여 효율적으로 학습할 수 있는 것으로 알려져 있다. 따라서 최신 순환신경망 이론을 적용하여 시계열자료 예측의 정확성을 향상시키는 연구를 진행하고자 한다.
+  
+
+연구 내용
+
+  - 시계열 데이터 예측 방법론: ARIMA(Autoregressive Integrated Mean 
+    Average) Model, Exponential  Smoothing, ARCH/GARCH 등 
+  - 인공신경망(Neural Networks) 이론: 개념, 역사, 배경이론
+  - 기존의 신경망을 이용한 예측 방법론: Time-delay, NARX, Elman 신경망
+  - 최신 신경망 이론 및 적용사례: Convolutional, Recurrent NN(LSTM/GRU)
+  - Deep Learning Framework: Torch, TensorFlow, Theano, Caffe 등
+  - 기존 방법들과 비교 실험  
+
+
+연구결과 및 기여도
+  - 기존의 예측 모델보다 정확도가 높은 주가지수 예측 모델 제시
+  - 순환신경망을 Financial Time Series에 적용한 사례
+  - Open Deep Learning Framework를 이용한 실 시스템 개발 참고 사례
+
+
+연구과제
+  - 순환신경망(Recurrent Neural Networks) 이론을 적용한 시계열 데이터 예측
+  - Deep Learning Framework: Caffe, Torch, Theano, TensorFlow 등
+  - Open dataset 대상으로 타 논문과의 비교 실험을 실시, 제안모델의 우수성 입증
