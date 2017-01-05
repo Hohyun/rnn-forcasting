@@ -1,0 +1,18 @@
+\BOOKMARK [1][-]{section.0.1}{서론}{}% 1
+\BOOKMARK [1][-]{section.0.2}{관련 연구}{}% 2
+\BOOKMARK [2][-]{subsection.0.2.1}{ARIMA}{section.0.2}% 3
+\BOOKMARK [2][-]{subsection.0.2.2}{Neural\040Network}{section.0.2}% 4
+\BOOKMARK [2][-]{subsection.0.2.3}{ARIMA와 신경망을 혼합한 Hybrid Model}{section.0.2}% 5
+\BOOKMARK [1][-]{section.0.3}{우리의 모델}{}% 6
+\BOOKMARK [2][-]{subsection.0.3.1}{Recurrent\040Neural\040Networks}{section.0.3}% 7
+\BOOKMARK [2][-]{subsection.0.3.2}{Simple\040RNN}{section.0.3}% 8
+\BOOKMARK [2][-]{subsection.0.3.3}{BPTT:\040Back-propagation\040through\040time}{section.0.3}% 9
+\BOOKMARK [2][-]{subsection.0.3.4}{LSTM\040/\040GRU}{section.0.3}% 10
+\BOOKMARK [2][-]{subsection.0.3.5}{예측 모델}{section.0.3}% 11
+\BOOKMARK [1][-]{section.0.4}{실험}{}% 12
+\BOOKMARK [2][-]{subsection.0.4.1}{Deep\040learning\040frameworks}{section.0.4}% 13
+\BOOKMARK [2][-]{subsection.0.4.2}{Sunspot data 예측}{section.0.4}% 14
+\BOOKMARK [2][-]{subsection.0.4.3}{환율 예측}{section.0.4}% 15
+\BOOKMARK [2][-]{subsection.0.4.4}{계좌입금액 예측}{section.0.4}% 16
+\BOOKMARK [1][-]{section.0.5}{결론}{}% 17
+\BOOKMARK [0][-]{section*.2}{참고 문헌}{}% 18
